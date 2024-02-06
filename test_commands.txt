@@ -1,0 +1,7 @@
+echo Testing
+pwd
+ls
+environ
+cd /home
+pwd
+echo Batch mode test completed
